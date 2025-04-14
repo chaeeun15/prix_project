@@ -34,7 +34,7 @@
 
 ### 🔽 아키텍처 구성도
 
-<img src="./service_architecture.png" style="width: 60%; height: auto;" />
+<img src="./src/main/resources/static/images/service_architecture.png" style="width: 60%; height: auto;" />
 
 ---
 
@@ -42,7 +42,7 @@
 
 > 아래는 프로젝트에 실제로 사용된 테이블만 포함한 ERD입니다.
 
-<img src="./erd.png" style="width: 80%; height: auto;" />
+<img src="./src/main/resources/static/images/erd.png" style="width: 80%; height: auto;" />
 
 **관계 설명**
 - `px_account` ↔ `px_search_log`: 1:N (한 명의 사용자가 여러 검색 기록)
@@ -81,7 +81,7 @@
 
 ### 🔽 실행 화면
 
-<img src="./prix_startpage.png" style="width: 80%; height: auto;" />
+<img src="./src/main/resources/static/images/prix_startpage.png" style="width: 80%; height: auto;" />
 
 ---
 
